@@ -1,8 +1,5 @@
 import Image from "next/image";
 import styles from "./page.module.css";
-//foobaerbas
-// test1
-//test2
 
 export default function Home() {
   return (
