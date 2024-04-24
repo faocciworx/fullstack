@@ -18,7 +18,6 @@ export const getPosts = async () => {
 
 export const getPost = async (id) => {
     const post = posts.find((post)  => post.id === parseInt(id));
-    console.log(post);
  return post;
 }
 
